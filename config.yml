@@ -1,0 +1,8 @@
+name: DEV-01
+enabled: false
+maxplayers: 10
+minplayers: 2
+messages:
+  not-enabled: '&cArena en Mantenimiento.'
+  join: '&e%player%&7 se ha unido &7[&e%current%&7/&e%max%&7]'
+  quit: '&e%player%&7 se ha ido &7[&e%current%&7/&e%max%&7].'

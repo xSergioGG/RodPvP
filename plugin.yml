@@ -1,0 +1,7 @@
+name: RodPvP
+main: me.zsergio.rodpvp.RodPvP
+version: BETA
+author: zSergioh
+
+commands:
+  config:
